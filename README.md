@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Y-tezda
-- 👀 I’m interested in all kinds of computers..from embedded sysytems to servers
+- 👀 I’m interested in all kinds of computers..from embedded systems to servers
 - 🌱 I’m currently learning Go, Rust & 日本語
 - 💞️ I’m looking to collaborate on mostly Flutter & Mobile Apps
 - 📫 How to reach me yashkumar@tezda.com
